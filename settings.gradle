@@ -1,0 +1,2 @@
+rootProject.name='Court-CounterappKT2020'
+include ':app'

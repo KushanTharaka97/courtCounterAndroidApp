@@ -21,8 +21,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-
 import com.example.android.courtcounter.R;
+
 
 /**
  * This activity keeps track of the basketball score for 2 teams.
